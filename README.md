@@ -1,7 +1,9 @@
 # pengen-django-api
 A REST API for the Pengen drawing app
+Instructions for installing using the terminal
 
-```https://github.com/moogwol/pengen-django-api.git```
+
+```git clone https://github.com/moogwol/pengen-django-api.git```
 
 ```cd pengen-django-api/```
 
